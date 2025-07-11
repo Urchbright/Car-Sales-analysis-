@@ -12,13 +12,6 @@ The purpose of this analysis was to investigate the relationships between car sa
 ### Methodology
 The analysis was based on [insert data source and methodology).
 
-### Key Findings
-1. *Black cars* generated $1.3M in sales, with Ford and Honda being top performers.
-2. *Green cars* accounted for $770.2k in sales, dominated by Chevrolet and Nissan.
-3. *Luxury and premium associations* were identified, with Ford, Honda, and Chevrolet showing strong correlations across multiple colors.
-4. *Cultural and social influences* were also observed, with regional preferences for certain makes and models.
-
-
 ### Data Source.
  - KAGGLE.
  - [download-here](https://www.kaggle.com)
